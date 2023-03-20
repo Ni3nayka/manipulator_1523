@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Bayron";
+const char* ssid = "Bayron1";
 const char* password = "";
 
 const char* host = "192.168.1.62";
